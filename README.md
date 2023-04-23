@@ -4,13 +4,13 @@ Sentiment analysis is one of the important fields of Natural Language Processing
 ## Problem Statement
 Awareness of customer opinion, emotions, and attitudes toward a particular brand or product can be gained through sentiment analysis. Sentiment analysis was performed on tweets related to US airlines in the year 2015 for this project, using various machine learning techniques such as SVM, boosting, Decision Trees, Naive Bayes, CNN, and more. The objective is to address the following research questions:
 
-•	What is the relationship between airline sentiments and airlines?
+-	What is the relationship between airline sentiments and airlines?
 
-•	What is the reason for the negativity mentioned in the dataset?
+-	What is the reason for the negativity mentioned in the dataset?
 
-•	What is the relation of time with sentiments?
+-	What is the relation of time with sentiments?
 
-•	Which model is best for sentiment analysis when using machine learning?
+-	Which model is best for sentiment analysis when using machine learning?
 
 ## Methodology
 - In this project, we focused on analyzing the sentiment of tweets related to US airlines in the year 2015 using various machine learning techniques like SVM, boosting, Decision Trees, Naive Bayes, etc. The dataset we had consisted of customer tweets, and we tried to address research questions related to airline sentiments and airlines, reasons for negativity, the relationship between time and sentiments, and identifying the best model for sentiment analysis using ensemble learning. 
