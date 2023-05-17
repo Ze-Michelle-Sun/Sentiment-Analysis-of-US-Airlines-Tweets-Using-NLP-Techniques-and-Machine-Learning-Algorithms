@@ -1,4 +1,4 @@
-![image](https://github.com/Ze-Michelle-Sun/Sentiment-Analysis-of-US-Airlines-Tweets-Using-NLP-Techniques-and-Machine-Learning-Algorithms/assets/110506170/0ba52b5a-b39a-4a8a-978c-bb4989af35e1)
+![image](https://github.com/Ze-Michelle-Sun/Sentiment-Analysis-of-US-Airlines-Tweets-Using-NLP-Techniques-and-Machine-Learning-Algorithms/assets/110506170/5b302c23-0a38-47d9-b4f9-144eb246d702)
 # Sentiment-Analysis-of-US-Airlines-Tweets-Using-NLP-Techniques-and-Machine-Learning-Algorithms
 ## Introduction
 Sentiment analysis is one of the important fields of Natural Language Processing (NLP) which involves analyzing and understanding the sentiment of any piece of text. With the advent of various social media platforms, companies focus on them for customer feedback and communication to understand their customers' sentiments toward their products and services. 
